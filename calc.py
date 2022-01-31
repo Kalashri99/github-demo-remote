@@ -1,3 +1,5 @@
+#updating a file in working directory 
+#and the pushing on remote repo
 
 #implementation headr
 #header for add()
