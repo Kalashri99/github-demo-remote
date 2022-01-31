@@ -4,7 +4,7 @@
 #implementation headr
 #header for add()
 def add(x,y):
-   return x-y
+   return x+y
 
 #header for sub()
 def sub(x,y):
